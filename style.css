@@ -1,0 +1,53 @@
+@import url('https://fonts.cdnfonts.com/css/lt-binary-neue');
+
+body {
+  padding-top: 20px;
+  background: hsla(236, 100%, 8%, 1);  
+  background: linear-gradient(90deg, hsla(236, 100%, 8%, 1) 0%, hsla(211, 100%, 28%, 1) 100%);
+  
+}
+
+h2 {
+  color: white;
+  display: inline-block;
+  float: left;
+  padding: 50px;
+  padding: 0px 50px;
+  font-family: 'LT Binary Neue', sans-serif;
+}
+span {
+  color: #0968e5;
+}
+ul {
+  list-style: none;
+  display: inline-block;
+  display: block;
+  color: white;
+  font-family: 'LT Binary Neue', sans-serif;
+
+}
+li { 
+  font-family: 'LT Binary Neue', sans-serif;
+  display: inline-block;
+  padding: 20px;
+  padding-left: 200px;
+  float: left;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
